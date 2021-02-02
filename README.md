@@ -1,16 +1,16 @@
-### Hi there 👋
+Hello 👋 I'm Tim
 
-<!--
-**timwredwards/timwredwards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at [TravelPerk](https://github.com/travelperk)
+- 👯 I’m looking to collaborate on Swift, iOS & macOS topics
+- 💬 Ask me about Apple platforms, programming and audio engineering
+- 🌱 I’m currently learning data-analytics
+- 📫 Contact me [here](https://timwredwards.github.io/contact/)
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### PR review language
+👍 I love this change! Good work.\
+❌ This needs changing, here is a suggestion.\
+❓ I need clarification on something\
+🔎 Nitpicking, you can change it or leave it as is\
+💭 Thinking out loud - Have you considered ___?
