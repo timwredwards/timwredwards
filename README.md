@@ -5,7 +5,6 @@
 - 💬 Ask me about Apple platforms, programming and audio engineering
 - 🌱 I’m currently learning data-analytics
 - 📫 Contact me [here](https://timwredwards.github.io/contact/)
-- 😄 Pronouns: He / Him
 
 ### PR review language
 👍 I love this change! Good work.\
