@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning data-analytics
 - 📫 Contact me [here](https://timwredwards.github.io/contact/)
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: 
 
 ### PR review language
 👍 I love this change! Good work.\
