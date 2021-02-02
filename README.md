@@ -1,4 +1,4 @@
-Hello 👋 I'm Tim
+### Hello 👋 I'm Tim
 
 - 🔭 I’m currently working at [TravelPerk](https://github.com/travelperk)
 - 👯 I’m looking to collaborate on Swift, iOS & macOS topics
