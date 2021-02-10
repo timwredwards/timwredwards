@@ -3,7 +3,7 @@
 - 🔭 I’m currently working at [TravelPerk](https://github.com/travelperk)
 - 👯 I’m looking to collaborate on Swift, iOS & macOS topics
 - 💬 Ask me about Apple platforms, programming and audio engineering
-- 🌱 I’m currently learning data-analytics
+- 🌱 I’m currently learning advanced regular expressions
 - 📫 Contact me [here](https://timwredwards.github.io/contact/)
 
 ### PR review language
